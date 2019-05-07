@@ -50,11 +50,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RunEncap.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RunEncap.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/fengzhuang/RunEncap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            <state relative-caret-position="270">
+              <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Animal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jiekou/Animal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MammalInt.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/jiekouimpl/MammalInt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="387">
+              <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+              <folding>
+                <element signature="e#102#103#0" expanded="true" />
+                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#178#179#0" expanded="true" />
+                <element signature="e#230#231#0" expanded="true" />
+                <element signature="e#258#259#0" expanded="true" />
+                <element signature="e#282#283#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -98,6 +124,8 @@
         <option value="$PROJECT_DIR$/src/chouxiang/AbstractDemo.java" />
         <option value="$PROJECT_DIR$/src/fengzhuang/EncapTest.java" />
         <option value="$PROJECT_DIR$/src/fengzhuang/RunEncap.java" />
+        <option value="$PROJECT_DIR$/src/jiekou/Animal.java" />
+        <option value="$PROJECT_DIR$/src/jiekouimpl/MammalInt.java" />
       </list>
     </option>
   </component>
@@ -129,13 +157,13 @@
               <item name="zhutest" type="b2602c69:ProjectViewProjectNode" />
               <item name="zhutest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fengzhuang" type="462c0819:PsiDirectoryNode" />
+              <item name="jiekou" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zhutest" type="b2602c69:ProjectViewProjectNode" />
               <item name="zhutest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="learn1" type="462c0819:PsiDirectoryNode" />
+              <item name="jiekouimpl" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -161,7 +189,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RunEncap">
+  <component name="RunManager" selected="Application.MammalInt">
     <configuration name="AbstractDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chouxiang.AbstractDemo" />
       <module name="zhutest" />
@@ -172,12 +200,12 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="DuotaiTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learn1.DuotaiTest" />
+    <configuration name="MammalInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jiekouimpl.MammalInt" />
       <module name="zhutest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learn1.*" />
+          <option name="PATTERN" value="jiekouimpl.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,18 +242,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.TestDog2" />
-      <item itemvalue="Application.DuotaiTest" />
       <item itemvalue="Application.VirtualDemo" />
       <item itemvalue="Application.AbstractDemo" />
       <item itemvalue="Application.RunEncap" />
+      <item itemvalue="Application.MammalInt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MammalInt" />
         <item itemvalue="Application.RunEncap" />
         <item itemvalue="Application.AbstractDemo" />
         <item itemvalue="Application.VirtualDemo" />
         <item itemvalue="Application.TestDog2" />
-        <item itemvalue="Application.DuotaiTest" />
       </list>
     </recent_temporary>
   </component>
@@ -537,8 +565,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fengzhuang/RunEncap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        <state relative-caret-position="270">
+          <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jiekou/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jiekouimpl/MammalInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
